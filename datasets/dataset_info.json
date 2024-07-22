@@ -38,6 +38,12 @@
                 "num_rows": 150,
                 "num_columns": 8,
                 "columns": "Tech_Cat,Target,MPSS,Week,Operator,Infra,ValidationList,CallTypeJson"
+            },
+            "f1 dataset demo": {
+                "description": "demo",
+                "num_rows": 420,
+                "num_columns": 10,
+                "columns": "Track,Position,No,Driver,Team,Starting Grid,Laps,Total Time/Gap/Retirement,Points,Fastest Lap"
             }
         }
     },
